@@ -6,7 +6,7 @@
         Phenolics compound - Tannin (taste = bitter and dry sensation, makes wine more complex, last longer, bitter taste)
 
 # Interesting facts
-- White wine is the most common in the Vinho Verde region
+- White wine is the most common in the Vinho Verde region 
 - The two most successful **white** wine varieties are **Alvarinho** and **Loureiro**. 
     - Alvarinho tends to produce low yields and can reach much higher alcohol levels --> grapefruit and floral notes
     - The most successful **red** wine grape has been **Vinhão** followed by Amaral/Azal-  with deep purple coloring and peppery notes
@@ -30,7 +30,7 @@
 
         - Volatie. 
         
-        - Fixed - lack of fixed acidity = flat or one-dimensional wine = naturally in the grapes
+        - Lack of fixed acidity = flat or one-dimensional wine = naturally in the grapes
         - volatile = arises in wine through fermentation (either through yeast or bacteria)
     
     - Citric acid is added to boost acidity
@@ -60,15 +60,22 @@
     - Sugar converts to Alcohol through yeast (funghi)
     - picking grapes when they are ripe results in sweeter wines or more alcohol if fermented out
 
-
-- Correlation
-    - higher natural sugars and therefore higher alcohol
-    - lower natural sugar and therefore higher natural acidity
     
 
 - pH
     - low pH solutions = lower unwanted bacteria
 
+- Other interesting facts
+    - higher natural sugars and therefore higher alcohol
+    - lower natural sugar and therefore higher natural acidity
+
+
+- Correlations - assumptions to check
+    - Lack of fixed acidity = flat or one-dimensional wine = naturally in grapes
+    - Is more acidity better?
+    - White wines have more acidity than red wines
+    - High fixed Sulphur could mean oxidation has happened - not good
+    - - > Sweet Taste (sugars + alcohols) <= => Acid Taste (acids) + Bitter Taste (phenols)
 
 
 
