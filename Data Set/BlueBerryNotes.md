@@ -1,7 +1,5 @@
 # Missing Info:
-        Aging
         Pricing
-        Brands
         Grape types
         Phenolics compound - Tannin (taste = bitter and dry sensation, makes wine more complex, last longer, bitter taste)
 
