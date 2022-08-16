@@ -1,0 +1,64 @@
+**Implementing machine learning for Blue Berry Winery**
+
+*Regarding which attributes to focus on:*
+First we consult the correlation matrix:
+    For White Wines:
+        - There is no or little correlation between quality level and:
+            - free SO4
+            - Sulphates
+            - Citric acid
+        - There is more/interesting correlation between quality and:
+            - alcohol
+            - density (negatively)
+            - chlorides (negatively)
+            - volatile acidity (negatively)
+    For Red Wines:
+        - There is no or little correlation between quality level and:
+            - residual sugar
+            - free SO4
+            - pH
+        - There is more/interesting correlation between quality and:
+            - Volatile acidity (negatively)
+            - citric acid
+            - Sulphates
+            - alcohol
+            - total SO4 (negatively)
+            - density (negatively)
+
+First we identified the outliers with IQR method and identified many outliers
+
+*Then we calculated the skewness values*
+For White Wines:
+    based on the skewness value, for White wines,
+    - the chlorides feature indicates the presence of extreme values on the right.
+    whereas, the ff. features are also skewed, albeit not extreme: 
+    - free SO4, 
+    - volatile acidity, 
+    - citric acid
+
+For Red Wines:
+    based on the skewness value, the ff. indicate the presence of extreme values on the right:
+    - the chlorides, 
+    - residual sugar and 
+    - suphates features 
+    whereas, the ff. features are also skewed, albeit not extreme: 
+    - free and
+    - total SO4
+
+*Now we calculated the kurtosis to detect the outliers
+    - White wines
+        - High outlier frequency for
+            - Chlorides,
+            - free SO4, 
+            - density, 
+            - citric acid
+    - Red Wine
+        - High outlier frequency for in Red Wines: 
+         - Residual Sugar, 
+         - chlorides, 
+         - total SO4, 
+         - Sulphates
+
+
+# Encoding categorical variables
+
